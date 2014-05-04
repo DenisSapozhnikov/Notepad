@@ -1,4 +1,4 @@
-TextEditor
+This project is a coursework 1st year students ETU. 
 ==========
 
-Text editor
+It is an analogue of notepad.
